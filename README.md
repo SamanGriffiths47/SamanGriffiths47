@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Sam'an!
 - 👀 I’m interested in all things coding
-- 🌱 I’m currently learning how to be a software engineer
-- 💞️ I’m looking to collaborate on whatever I can
+- 🌱 I’m a Software Engineer, currently looking for a new position.
+- 🕸️ Check out my [websit](https://www.samankhaliq.com), let me know what you think!
+- 💞️ I’m looking to collaborate on whatever I can, feel free to reach out!
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/saman-khaliq/)
 
 <!---
