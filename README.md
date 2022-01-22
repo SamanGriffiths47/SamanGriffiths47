@@ -43,7 +43,7 @@ Technologies I've Used 🔌💻🖱️:
   
 &ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp;<img src="https://github-readme-stats.vercel.app/api?username=samanhg47&hide=issues&count_private=true&hide_border=true&bg_color=0D1117&show_icons=true&theme=great-gatsby"/>
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;<img src="https://github-readme-stats.vercel.app/api?username=samanhg47&hide=issues&count_private=true&hide_border=true&bg_color=0D1117&show_icons=true&theme=great-gatsby"/>
 </div>
 
 </div>
